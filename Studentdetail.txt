@@ -1,0 +1,19 @@
+Jeel Patel,99
+Neev Patel,77
+Krupal Patel,98
+Smit Patel,98
+Radhe,77
+Meet,95
+Jay Patel,90
+Jeel Patel,90
+Priyal Patel,85
+Dhruv Patel,88
+Jatin,70
+Raj Patel,60
+Mahi,75
+Utsav,72
+Divya,80
+Het,80
+Brijesh,85
+
+
